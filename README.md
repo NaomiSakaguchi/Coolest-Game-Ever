@@ -1,7 +1,7 @@
 # Coolest Game Ever
 The Coolest Game Ever is the first game I've ever made in Unity!
 It´s a 2D platform game with me and my friends Melany and Patricia as characters. If you collect enough coins you can unlock versions of the characters with tails, which gives the player the ability to jump higher.
-I also made the game´s soundtrack and Melany created the characters' head.
+I also made the game soundtrack and Melany created the characters' head.
 
 Download link: https://drive.google.com/file/d/1jDf7NSEatQcRq2YCRii3xQil9yeOhJqp/view?usp=sharing
 
